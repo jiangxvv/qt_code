@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/jiangxvv/Documents/qt-code/towing_project/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/jiangxvv/Documents/qt-code/towing_project/build -I/home/jiangxvv/Documents/qt-code/towing_project -I/home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/include -isystem /usr/include/eigen3 -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtWidgets -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtGui -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtCore -isystem /opt/Qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/towing_project.dir/towing_project_autogen/mocs_compilation.cpp.o -c /home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/mocs_compilation.cpp",
+  "file": "/home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/towing_project.dir/towing_project_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/jiangxvv/Documents/qt-code/towing_project/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/jiangxvv/Documents/qt-code/towing_project/build -I/home/jiangxvv/Documents/qt-code/towing_project -I/home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/include -isystem /usr/include/eigen3 -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtWidgets -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtGui -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtCore -isystem /opt/Qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/towing_project.dir/main.cpp.o -c /home/jiangxvv/Documents/qt-code/towing_project/main.cpp",
+  "file": "/home/jiangxvv/Documents/qt-code/towing_project/main.cpp",
+  "output": "CMakeFiles/towing_project.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jiangxvv/Documents/qt-code/towing_project/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/jiangxvv/Documents/qt-code/towing_project/build -I/home/jiangxvv/Documents/qt-code/towing_project -I/home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/include -isystem /usr/include/eigen3 -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtWidgets -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtGui -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtCore -isystem /opt/Qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/towing_project.dir/mainwindow.cpp.o -c /home/jiangxvv/Documents/qt-code/towing_project/mainwindow.cpp",
+  "file": "/home/jiangxvv/Documents/qt-code/towing_project/mainwindow.cpp",
+  "output": "CMakeFiles/towing_project.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/jiangxvv/Documents/qt-code/towing_project/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/jiangxvv/Documents/qt-code/towing_project/build -I/home/jiangxvv/Documents/qt-code/towing_project -I/home/jiangxvv/Documents/qt-code/towing_project/build/towing_project_autogen/include -isystem /usr/include/eigen3 -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtWidgets -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtGui -isystem /opt/Qt5.14.2/5.14.2/gcc_64/include/QtCore -isystem /opt/Qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/towing_project.dir/environment_loads.cpp.o -c /home/jiangxvv/Documents/qt-code/towing_project/environment_loads.cpp",
+  "file": "/home/jiangxvv/Documents/qt-code/towing_project/environment_loads.cpp",
+  "output": "CMakeFiles/towing_project.dir/environment_loads.cpp.o"
+}
+]
