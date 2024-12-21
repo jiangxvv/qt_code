@@ -33,9 +33,15 @@ private:
     std::string data_path_;
 
     std::vector<double> wind_dir_data_;
-    std::array<std::vector<double>, 3> wind_data_;
+    std::array<std::vector<double>, 3> wind_speed_data_;
     std::vector<double> current_dir_data_;
-    std::array<std::vector<double>, 3> current_data_;
+    std::array<std::vector<double>, 3> current_speed_data_;
+
+    std::array<std::vector<double>, 3> wave_height_data_;
+    std::array<std::vector<double>, 3> wave_period_data_;
+    std::vector<double> wave_dir_data_;
+
+    std::vector<double> time_data_;
 
 
 
