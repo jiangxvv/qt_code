@@ -1,0 +1,4 @@
+/home/jiangxvv/Documents/qt-code/towing_project/CMakeFiles/towing_project.dir
+/home/jiangxvv/Documents/qt-code/towing_project/CMakeFiles/edit_cache.dir
+/home/jiangxvv/Documents/qt-code/towing_project/CMakeFiles/rebuild_cache.dir
+/home/jiangxvv/Documents/qt-code/towing_project/CMakeFiles/towing_project_autogen.dir
